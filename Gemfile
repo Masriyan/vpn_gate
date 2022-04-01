@@ -16,7 +16,7 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-gem 'puma'
+gem 'puma', '>= 4.3.12'
 gem 'slim-rails'
 gem 'bootstrap'
 gem "font-awesome-rails"
