@@ -9,7 +9,7 @@ group :development, :test do
   gem 'faker'
 end
 
-gem 'rails', '~> 5.1.6.1'
+gem 'rails', '~> 5.2.8.1'
 gem 'vici'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
