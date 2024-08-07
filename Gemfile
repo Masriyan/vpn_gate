@@ -18,7 +18,7 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'puma'
 gem 'slim-rails'
-gem 'bootstrap'
+gem 'bootstrap', '>= 5.0.0'
 gem "font-awesome-rails"
 gem 'coffee-rails', '~> 4.2'
 gem 'jquery-rails'
